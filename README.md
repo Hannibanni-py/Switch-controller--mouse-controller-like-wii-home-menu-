@@ -1,4 +1,4 @@
-# Switch "JoyCon" mouse controller (like wii home menu)
+# Switch "JoyCon" mouse controller (like "Wii" cursor)
 #With this code you can control your mouse with the motion sensors of the "JoyCon".
 #Just connect your right "JoyCon" via bluetooth.
 #THIS DOESNT WORK WITH THE "PRO CONTROLLER"
